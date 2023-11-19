@@ -1,0 +1,3 @@
+Lieu is an application where a user can submit any longform text and Lieu will provide a summary of what the user has given. In this application, the user can configure the options so that the returned response can be tailored by the user’s preferences. For example, the user can request the summary to contain a certain number of words or the format of the response can be a paragraph or a bullet point.
+
+Lieu meaning: “stead; place”. The phrase “in lieu of” – which means “instead of” – is the principle of our application in which we take the user’s previous input and instead of using their input, we provide a new input in response.

@@ -1,0 +1,12 @@
+[submodule "lieu-gateway"]
+	path = lieu-gateway
+	url = https://github.com/o-sca/lieu-gateway.git
+[submodule "lieu-text-ai-service"]
+	path = lieu-text-ai-service
+	url = https://github.com/Changwhi/lieu-text-ai-service.git
+[submodule "lieu-fe"]
+	path = lieu-fe
+	url = https://github.com/o-sca/lieu-fe.git
+[submodule "lieu-backend"]
+	path = lieu-backend
+	url = https://github.com/mScrub/lieu-backend.git
