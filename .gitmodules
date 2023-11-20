@@ -8,5 +8,5 @@
 	path = lieu-fe
 	url = https://github.com/o-sca/lieu-fe.git
 [submodule "lieu-backend"]
-	path = lieu-backend
+	path = lieu-auth-service
 	url = https://github.com/mScrub/lieu-backend.git
