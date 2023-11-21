@@ -10,3 +10,6 @@
 [submodule "lieu-backend"]
 	path = lieu-auth-service
 	url = https://github.com/mScrub/lieu-backend.git
+[submodule "lieu-text-generate-ai-service"]
+	path = lieu-text-generate-ai-service
+	url = https://github.com/Changwhi/lieu-text-generate-ai-service.git
